@@ -1,6 +1,6 @@
-# React App - {{ project_name }}
+# React App - conduit
 
-> {{ project_short_description }}
+> using https://api.realworld.io/api
 
 ## Table of Contents
 
